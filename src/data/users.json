@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user": "Elon Reeve Musk",
+      "tweets": "777",
+      "followers": 100500,
+      "avatar": ""
+    },
+    {
+      "id": 2,
+      "user": "User2",
+      "tweets": 222,
+      "followers": 222,
+      "avatar": "https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/null/external-doctor-female-profession-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"
+    },
+    {
+      "id": 3,
+      "user": "User3",
+      "tweets": 3333,
+      "followers": 3100500,
+      "avatar": "https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/null/external-customer-support-female-profession-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"
+    }
+  ]
+}
